@@ -9,3 +9,12 @@ This bot works with Image recognition hence according to your window set the pix
 I have set pixel position in split screen mode.
 
 ## Screen Size of my Display: 15.6"
+
+### Required Module: 
+1. PIL
+
+2. pyautogui
+
+3. numpy
+
+You can install them using following command : "pip install package_name".
